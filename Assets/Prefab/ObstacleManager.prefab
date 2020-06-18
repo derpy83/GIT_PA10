@@ -43,6 +43,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 769bb70523cd8474eb99593aa3296ff1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Obstacle: {fileID: 1662584973375887002, guid: ed5b6e139639a11419909b026eb40da8,
+  Obstacle: {fileID: 8650554079503968789, guid: d6f21bc2501e3534e8b79c37e5b736c0,
     type: 3}
   SpawnInterval: 1
